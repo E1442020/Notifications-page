@@ -1,6 +1,7 @@
 let makeAllRead=document.querySelector('.read')
 let unread=document.querySelectorAll('.unread')
 let redDot = document.querySelectorAll(".red-dott");
+let notificationNum=document.querySelector('.notification-num')
 
 makeAllRead.addEventListener('click',() =>{
     
@@ -9,10 +10,12 @@ makeAllRead.addEventListener('click',() =>{
         element.classList.remove("unread");
         makeAllRead.innerHTML='Make all unread'
         makeAllRead.style.color='hsl(219, 85%, 26%)'
+        notificationNum.innerHTML='0';
         }else{
             element.classList.add("unread");
             makeAllRead.innerHTML='Make all as read';
-            makeAllRead.style.color='hsl(219, 12%, 42%)'
+            makeAllRead.style.color='hsl(219, 12%, 42%)';
+            notificationNum.innerHTML='3';
 
         }
     })
