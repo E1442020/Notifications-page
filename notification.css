@@ -62,11 +62,11 @@ body {
 .notification-container .notification-layout .notification-1 {
   gap: 15px;
   width: 100%;
-  padding: 10px;
+  padding: 15px;
   border-radius: 10px;
 }
 .notification-container .notification-layout .notification-1 .notification-img {
-  width: 40px;
+  width: 50px;
   height: 10%;
   aspect-ratio: 1/1;
 }
@@ -133,11 +133,11 @@ body {
 .notification-container .notification-layout .notification-2 {
   gap: 15px;
   width: 100%;
-  padding: 10px;
+  padding: 15px;
   border-radius: 10px;
 }
 .notification-container .notification-layout .notification-2 .notification-img {
-  width: 40px;
+  width: 50px;
   height: 10%;
   aspect-ratio: 1/1;
 }
@@ -204,11 +204,11 @@ body {
 .notification-container .notification-layout .notification-3 {
   gap: 15px;
   width: 100%;
-  padding: 10px;
+  padding: 15px;
   border-radius: 10px;
 }
 .notification-container .notification-layout .notification-3 .notification-img {
-  width: 40px;
+  width: 50px;
   height: 10%;
   aspect-ratio: 1/1;
 }
@@ -275,11 +275,11 @@ body {
 .notification-container .notification-layout .notification-4 {
   gap: 15px;
   width: 100%;
-  padding: 10px;
+  padding: 15px;
   border-radius: 10px;
 }
 .notification-container .notification-layout .notification-4 .notification-img {
-  width: 40px;
+  width: 50px;
   height: 10%;
   aspect-ratio: 1/1;
 }
@@ -346,11 +346,11 @@ body {
 .notification-container .notification-layout .notification-5 {
   gap: 15px;
   width: 100%;
-  padding: 10px;
+  padding: 15px;
   border-radius: 10px;
 }
 .notification-container .notification-layout .notification-5 .notification-img {
-  width: 40px;
+  width: 50px;
   height: 10%;
   aspect-ratio: 1/1;
 }
@@ -417,11 +417,11 @@ body {
 .notification-container .notification-layout .notification-6 {
   gap: 15px;
   width: 100%;
-  padding: 10px;
+  padding: 15px;
   border-radius: 10px;
 }
 .notification-container .notification-layout .notification-6 .notification-img {
-  width: 40px;
+  width: 50px;
   height: 10%;
   aspect-ratio: 1/1;
 }
@@ -488,11 +488,11 @@ body {
 .notification-container .notification-layout .notification-7 {
   gap: 15px;
   width: 100%;
-  padding: 10px;
+  padding: 15px;
   border-radius: 10px;
 }
 .notification-container .notification-layout .notification-7 .notification-img {
-  width: 40px;
+  width: 50px;
   height: 10%;
   aspect-ratio: 1/1;
 }
