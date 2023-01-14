@@ -8,9 +8,11 @@ makeAllRead.addEventListener('click',() =>{
         if(element.classList.contains('unread')){
         element.classList.remove("unread");
         makeAllRead.innerHTML='Make all unread'
+        makeAllRead.style.color='hsl(219, 85%, 26%)'
         }else{
             element.classList.add("unread");
-            makeAllRead.innerHTML='Make all as read'
+            makeAllRead.innerHTML='Make all as read';
+            makeAllRead.style.color='hsl(219, 12%, 42%)'
 
         }
     })
